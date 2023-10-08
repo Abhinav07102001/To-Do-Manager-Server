@@ -1,4 +1,4 @@
-# To-Do-Manager-Server
+# To-Do-Manage-Server
 
 A highly optimized and fast to-do app with great features.
 This is the Server repo of Worklist.
